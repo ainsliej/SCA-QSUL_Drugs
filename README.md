@@ -1,6 +1,6 @@
 # SCA-QSUL_Drugs
-Code from the QSUL + drugs paper
-Ainslie Johnstone 2020
+Code from the QSUL + drugs paper-
+Ainslie Johnstone, 2020
 
 
 Citation: 
